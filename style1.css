@@ -30,7 +30,7 @@
     justify-content: space-evenly;
     min-height: 100vh;
 }
-.btn-1{
+.button{
     width: 200px;
     height: 100px;
     border: none;
@@ -41,6 +41,6 @@
     font-size: 2rem;
     outline: none;
 }
-.btn-1:hover{
+.button:hover{
     box-shadow: inset 100px 0 0 0 #f9e506;
 }
